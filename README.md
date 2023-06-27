@@ -1,2 +1,2 @@
 # Hurricane-Deep-Learning-Project
-A project that predicts the post-hurricane damage status of buildings from images using transfer learning, deep learning algorithms
+A project that predicts the post-hurricane damage status of buildings from images using transfer learning, deep learning algorithms: VGG16 and ResNet50. The models were trained on 10,000 images of houses after hurricane harvey with 5000 images consisting of houses that had sustained damage, and 5000 images consisting of houses that had not. The models were evaluated and a brief report was created which was built in the style of a IEEE report. 
